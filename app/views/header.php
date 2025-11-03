@@ -1,7 +1,3 @@
-<?php
-  define('APPROOT', dirname(dirname(__FILE__)));
-  define('URLROOT', 'http://localhost/ims');
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
